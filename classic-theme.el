@@ -24,8 +24,8 @@
 
 ;;; Commentary:
 ;;
-;; This is my personal **Emacs** theme, it's a port classic theme from
-;; `color-themes' with some customizations.
+;; This Emacs theme is a port of the classic theme from color-themes, with
+;; some slight customizations.
 
 ;;; Code:
 
